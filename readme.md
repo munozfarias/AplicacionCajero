@@ -1,1 +1,1 @@
-Aplicación simple de práctica con métodos esáticos.
+Aplicación simple de práctica con métodos estáticos.
