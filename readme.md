@@ -1,0 +1,1 @@
+Aplicación simple de práctica con métodos esáticos.
